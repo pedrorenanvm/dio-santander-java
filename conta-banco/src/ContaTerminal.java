@@ -1,7 +1,7 @@
+import java.util.Scanner;;
 public class ContaTerminal {
     public static void main(String[] args) throws Exception {
-        public static void main(String[] args) {
-            int numero;
+        int numero;
             String agencia;
             String nomeCliente;
             double saldo;
@@ -22,6 +22,6 @@ public class ContaTerminal {
             saldo = ipt.nextDouble();
     
             System.out.printf("Olá %s, obrigado por criar uma conta em nosso banco, sua agência é %s," +
-                    " conta %d e seu saldo %.3f já está disponível para saque." ,nomeCliente,agencia,numero,saldo);
-        }    }
+                    " conta %d e seu saldo %.3f já está disponível para saque." ,nomeCliente,agencia,numero,saldo); 
+     }
 }
