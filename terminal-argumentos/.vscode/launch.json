@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "teste",
+            "request": "launch",
+            "mainClass": "teste",
+            "projectName": "terminal-argumentos_535c2640"
+        },
+        {
+            "type": "java",
             "name": "SobreMim",
             "request": "launch",
             "mainClass": "SobreMim",
