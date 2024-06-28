@@ -1,3 +1,3 @@
-﻿# dio-trilha-java-basico
+﻿# dio-trilha-java
 
-- Repositório voltado a armazenar alguns arquivos e projetos básicos para exercitar a lógica na trilha de java básico do bootcamp
+- Repositório voltado a armazenar alguns arquivos e projetos para exercitar na trilha de java  do bootcamp
