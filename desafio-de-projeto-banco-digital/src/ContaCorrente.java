@@ -10,4 +10,13 @@ public class ContaCorrente extends Conta {
         super.imprimirInfosComuns();
     }
 
+    @Override
+    public String toString() {
+        return "ContaCorrente{" +
+                "agencia=" + agencia +
+                ", numero=" + numero +
+                ", saldo=" + saldo +
+                ", cliente=" + cliente +
+                '}';
+    }
 }
